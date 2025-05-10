@@ -1,5 +1,11 @@
 # 💫 About Me:
-Graduated from Concordia in Computer Science, now pushing boundaries in software development and cybersecurity!
+🎓 Graduated from Concordia University in Computer Science.</br>
+💻 Now pushing boundaries in software development and cybersecurity.</br>
+🎬 I also enjoy editing videos and creating thumbnails for YouTube in my spare time!</br>
+https://www.youtube.com/@fcmesopotamia6594</br>
+https://www.youtube.com/watch?v=G7-OLVo8oTk&ab_channel=BishBishMooS</br>
+https://www.youtube.com/@Hunter-jl2tc</br>
+https://www.youtube.com/@captainhunter57
 
 
 # 💻 Tech Stack:
